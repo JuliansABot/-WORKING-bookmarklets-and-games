@@ -1,6 +1,7 @@
 p {
 font-family:-apple-system, BlinkMacSystemFont, sans-serif;
 }
-background {
- background-image: url("/IMG_2996.gif");
+body{
+ background: url:('IMG_2996.gif')
+ margin: 0;
 }
