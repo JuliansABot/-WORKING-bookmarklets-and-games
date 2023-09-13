@@ -17,7 +17,7 @@ a {
 /* CSS */
 .button-3 {
   appearance: none;
-  background-color: #2ea44f;
+  background-color: #050505;
   border: 1px solid rgba(27, 31, 35, .15);
   border-radius: 6px;
   box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
@@ -46,7 +46,7 @@ a {
 }
 
 .button-3:hover {
-  background-color: #2c974b;
+  background-color: #ffffff;
 }
 
 .button-3:focus {
