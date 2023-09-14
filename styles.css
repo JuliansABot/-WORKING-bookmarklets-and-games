@@ -8,7 +8,9 @@ color: #ffffff;
 body{
   background: url('/StarfieldSimulation.gif');
 }
-
+.Link.com {
+display: none;
+}
 button {
   width: 150px;
   height: 60px;
